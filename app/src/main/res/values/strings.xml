@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TapMeHard</string>
+    <string name="accessibility_service_description">TapMeHard uses accessibility services to perform system actions like taking screenshots when triggered by back-tap gestures.</string>
+    <string name="notification_channel_name">Tap Detection</string>
+    <string name="notification_title">TapMeHard is active</string>
+    <string name="notification_text">Listening for back-tap gestures</string>
+</resources>
